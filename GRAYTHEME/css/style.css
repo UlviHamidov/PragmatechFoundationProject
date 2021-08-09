@@ -1,0 +1,122 @@
+@charset "utf-8";
+
+#header{
+	width: 800px;
+	height: 100px;
+	margin: 0 auto 0 auto;
+	display: table;
+	background: #ccc;
+}
+
+#header .websitelogo {
+	margin: 15px auto 15px auto;
+	display: table;
+
+	width: 200px;
+	height: auto;;
+}
+
+#content{
+	width: 770px;
+	height: auto;
+	background: #ccc;
+	padding: 10px 15px 10px 15px;
+
+	margin: 20px auto 20px auto;
+	display: table;
+
+
+}
+
+#content h1, #content .sayfabanner{
+	margin: 0 auto 15px auto;
+	display: table;
+
+	height: auto;
+}
+
+#content .yazialani p{
+	font-size: 12px;
+}
+
+.secili{
+	color: #f00 !important;
+	border: 1px solid #f00 !important;
+}
+
+.qaleri{
+	margin: 0 auto 0 auto;
+	display: table;
+}
+
+.qaleri .sekil{
+	width: 150px;
+	height: auto;
+	border: 1px solid #000;
+	padding: 5px 5px 5px 5px;
+	background: #007ce7;
+	margin: 0 15px 15px 15px;
+	float: left;
+
+}
+
+.qaleri .sekil img{
+	width: 100%;
+	height:auto;
+}
+
+.menu {
+	margin: 20 auto 20px auto;
+	display: table;
+}
+
+.menu li{
+	float: left;
+	list-style-type: none;
+	margin-right: 15px;
+
+}
+
+.menu li a{
+	color: #000;
+	font-size: 18px;
+	text-decoration: none;
+
+	border: 1px solid #000;
+	padding: 5px 10px;
+}
+
+.menu li a:hover{
+	color: #f00;
+	border: 1px solid #f00;
+}
+
+#footer{
+	width: 770px;
+	height: 13px;
+	padding: 10px 10px 10px 15px;
+	background: #ccc;
+
+	margin: 0 auto 0 auto;
+	display: table;
+}
+
+#footer p{
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+}
+#content .sayfabanner img{
+	transition: opacity 0.8s;
+}
+#content .sayfabanner img:hover{
+	opacity: 0.8;
+}
+
+.qaleri .sekil img{
+	transition: opacity 0.8s;
+}
+
+.qaleri .sekil img:hover{
+	opacity: 0.6;
+}
