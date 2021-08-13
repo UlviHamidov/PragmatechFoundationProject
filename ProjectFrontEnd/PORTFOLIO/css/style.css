@@ -37,7 +37,6 @@ nav a:link{
     text-decoration: none;
     list-style: none;
     margin-right: 25px;
-    
     transition: all ease 0.8s;
     
 }
@@ -157,3 +156,33 @@ span{
     font-weight:100;
 }
 
+ .fluid{
+     max-width: 100%;
+     height: auto;
+ }
+
+ #lessons{
+     background-color: blanchedalmond;
+     padding: 50px;
+     text-align: center;
+     height: 700px;
+ }
+
+ .card{
+     width: 320px;
+     height: 350px;
+     border: 1px solid gray;
+     padding: 0;
+     display: inline-block;
+ }
+.card:hover{
+    border: 2px solid gray;
+}
+ .h5card{
+     font-size:15px;
+     color: darkblue;
+ }
+
+ .pcard{
+     color: #888;
+ }
