@@ -157,19 +157,3 @@ span{
     font-weight:100;
 }
 
-
-
-#lessons{
-    background-color: white;
-    padding: 50px;
-    text-align: center;
-    height: 700px;
-    ;
-}
-
-.card{
-    width: 320px;
-    height: 350px;
-    border:1px solid gray;
-    padding: 0;
-}
