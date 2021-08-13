@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+    margin:0;
+}
+a>i{
+    margin-right: 7px;
+    font-size: 16px;
+}
+
+#logo{
+    font-size: 30px;
+    line-height: 80px;
+    color:darkblue;
+    float: left;
+    margin: 10px;
+}
+
+#menu{
+    height: 80px;
+    padding: 0 20px;
+
+}
+
+nav{
+    line-height: 80px;
+    float: right;
+    transition: all ease 0.8s;
+
+}
+
+nav a:link{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 25px;
+    
+    transition: all ease 0.8s;
+    
+}
+
+nav a:hover{
+    
+    border-bottom: 2px solid darkblue;
+}
+
+nav a:visited{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 25px;
+}
+
+#mainbg{
+    background-image: url(../img/imgbg.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    height: 600px;
+}
+
+#black{
+    height: 600px;
+    background-color: black;
+    opacity: 0.4;
+}
+
+#maintxt{
+    color: blanchedalmond;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+
+}

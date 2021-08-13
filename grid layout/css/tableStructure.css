@@ -1,0 +1,75 @@
+.item {
+    height: 400px;
+    border: 1px solid gray;
+    background: lightgray;
+    margin: 5px;
+}
+
+.item2 {
+    height: 400px;
+    margin: 5px;
+    
+}
+.item4{
+    height: 250px;
+    border: 1px solid gray;
+    background: lightgray;
+    margin: 5px;
+}
+
+p, h1 {
+    background-color: lightgray  ;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.item2 p, h1{
+    background-color: lightgray  ;
+    text-align: center;
+}
+
+.item3 .yazi p, h1{
+    /* background-color: lightgray  ; */
+    /* padding: 10px; * /
+    /* margin: 10px; */
+    /* text-align: center; */
+}
+
+
+.item3{
+    height: 280px;
+    width: 380px;
+    margin: 5px;
+    border: 1px solid gray;
+    background: lightgray;
+    
+}
+
+.item5{
+    height: 70px;
+    border: 1px solid gray;
+    background: lightgray;
+    margin: 5px;
+}
+
+.divv {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:1px;
+    margin:10px auto;
+    
+    
+    
+}
+
+.img img{
+    width: 1000px;
+}
+
+.img{
+    
+    width: 750px;
+    height: 400px;
+    background-color: lightgray;
+}
