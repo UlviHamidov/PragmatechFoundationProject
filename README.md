@@ -3,7 +3,7 @@
 
 
 ## Haqqımda qısa məlumat
-- Tədrisə başladığım vaxt: 02 avqust 2021-ci il
+- Tədrisə başladığım vaxt: 22 iyul 2021-ci il
 - Tədrisi başa vurduğum vaxt:
 - Tədris müddətində hədəflədiyim [layihə şablon(ları)]:(http://innovationplans.com/idesign/buka/minimal.html)
 
