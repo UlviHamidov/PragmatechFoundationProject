@@ -1,7 +1,22 @@
-#Ülvi Həmidov
+
+# Ülvi Həmidov
 
 
-Hazırlayacağım [Project](http://innovationplans.com/idesign/buka/minimal.html)
+## Haqqımda qısa məlumat
+- Tədrisə başladığım vaxt: 02 avqust 2021-ci il
+- Tədrisi başa vurduğum vaxt:
+- Tədris müddətində hədəflədiyim [layihə şablon(ları)]:(http://innovationplans.com/idesign/buka/minimal.html)
+
+
+## Tədris müddətində gördüyüm işlər
+Null
+- Kodlar
+- İşdə istifadə olunan texnologiyalar
+- İşin bitmə müddəti:
+
+## Tədris müddətində yazdığım məqalələr
+Null
+
 
 <img src="https://www.pngitem.com/pimgs/m/519-5194865_html-css-js-html-5-hd-png-download.png" alt="FRONTEND">
 
